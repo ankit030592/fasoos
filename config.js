@@ -1,7 +1,7 @@
 module.exports = {
     db: {
         database: 'fasoos',
-        host: 'localhost',
+        host: 'db4free.net',
         port: 3306,
         user: 'fasoos',
         password: 'fasoos'
